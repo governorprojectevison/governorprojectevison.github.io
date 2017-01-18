@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "what.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 75,
+    "uniqCompNum": 85,
     "versionPublish": "3.10.5",
     "favicon": "",
     "noImageResize": ""
@@ -29,7 +29,7 @@
   "pages": {
     "who.html": {
       "settings": {
-        "title": "WHO",
+        "title": "Evison for Governor- Who",
         "order": 3
       },
       "components": [
@@ -148,7 +148,7 @@
               "color": "#ffffff"
             },
             ".mbr-section-text": {
-              "color": "#efefef"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -160,7 +160,7 @@
             "imageSize": "47",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1413787489051-bcbb6209ece1-2000x1081.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1419407118704-43ccfda4036d-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -183,7 +183,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/DJrmGDp7XJ0",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -196,7 +196,7 @@
           },
           "title": "Intro to your candidate: Who is Nora Evison?",
           "text": "You may be wondering who Nora Evison is? Is she the type of person you want to see in office for the great state of California? Find out here with this quick video and get to know your future state governor.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">WATCH</a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PLAY IN NEW TAB</a>  "
         },
         {
           "_inherit": "social-buttons1",
@@ -236,7 +236,7 @@
     },
     "what.html": {
       "settings": {
-        "title": "WHAT",
+        "title": "Evison for Governor- What",
         "order": 4
       },
       "components": [
@@ -518,7 +518,7 @@
     },
     "gallery.html": {
       "settings": {
-        "title": "GALLERY",
+        "title": "Evison for Governor- Gallery",
         "order": 8
       },
       "components": [
@@ -541,7 +541,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/714142a0d28a5ce7c7e4d12208573f29-2000x1628.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -550,7 +550,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayColor": "#c1c1c1",
             "showTitle": true,
             "showText": true,
             "showButton": false
@@ -671,67 +671,277 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-1g",
+          "_name": "slider3",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "autoplay": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-9699-2000x1619.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-9641-2000x1123.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-9665-2000x1123.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-1217-2000x1500.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-1216-2000x1500.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-9634-2000x1123.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-9638-2000x1123.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-9636-2000x1123.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-9702-2000x1123.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-9711-2000x1123.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-9710-2000x1123.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-9709-2000x1123.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
             "bgColor": "#fff",
-            "showText": true
+            "showBullets": false
           },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "_anchor": "slider3-2b",
+          "articleLayout": false
         }
       ]
     },
     "interact.html": {
       "settings": {
-        "title": "LGBTQ ACCEPTANCE",
+        "title": "Evison for Governor- Interact",
         "order": 9
       },
       "components": [
         {
           "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#232323"
+            ".mbr-section-title, p": {
+              "color": "#fff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-1k",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-24",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1474507460787-a653925b8647-2000x1125.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#7c706b",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Join the Evison Movement Now!",
+          "text": "<p>Be a part of California's great future with Nora Evison as your governor!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#2969b0"
+            },
+            "SMALL": {
+              "color": "#fac51c"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-26",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "paddingBottom": "0",
+            "bgColor": "#efefef",
+            "showMeta": true
           },
-          "text": "<br>FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
+          "title": "VOTE",
+          "meta": "Tell us who you plan on voting for next November in our mock poll!<br>*Don't actually click on the buttons- they're here for the sake of the aesthetics of the website :D&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-25",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "4",
+            "bgColor": "#efefef"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">ETHAN SUE</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">NORA EVISON</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">BEAU EAVES</a>  "
         },
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff"
+              "color": "#2969b0"
             },
             ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
+              "color": "#fac51c"
             }
           },
           "_tags": [
@@ -740,12 +950,12 @@
           "_name": "form2",
           "_anchor": "form2-1i",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -753,12 +963,12 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "SUBSCRIBE FORM",
-          "subtitle": "Subscribe to our Newsletter",
+          "title": "SUBSCRIBE",
+          "subtitle": "Get up to date on news and progress regarding Nora Evison's campaign!&nbsp;<br>",
           "form": {
             "action": "josie.chen43110@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for subscribing to Nora Evison's campaign!"
             },
             "fields": {
               "email": {
@@ -767,64 +977,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          },
-          "_anchor": "form1-1j",
-          "_params": {
-            "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
-          },
-          "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "form": {
-            "action": "josie.chen43110@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
           "_styles": {
@@ -972,7 +1125,7 @@
     },
     "equitablehealthcareaccess.html": {
       "settings": {
-        "title": "EQUITABLE HEALTHCARE ACCESS",
+        "title": "Evison for Governor- Equitable Healthcare Access",
         "order": 6
       },
       "components": [
@@ -1139,13 +1292,28 @@
             },
             ".mbr-section__container .mbr-section-subtitle": {
               "color": "#fac51c"
+            },
+            ".mbr-price-figure": {
+              "color": "#2969b0"
+            },
+            ".mbr-plan-price-desc": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#000000"
+            },
+            ".mbr-plan-price-desc SPAN": {
+              "color": "#000000"
+            },
+            "DIV": {
+              "color": "#fac51c",
+              "font-size": "11px"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "pricing-table2",
-          "_anchor": "pricing-table2-16",
+          "_anchor": "pricing-table2-28",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -1164,49 +1332,49 @@
             "showTitle": true,
             "showSubtitle": true,
             "firstType": "",
-            "showButtons": true,
-            "secondType": "bg-primary",
+            "showButtons": false,
+            "secondType": "",
             "thirdType": "",
             "fourthType": ""
           },
           "title": "THE TRUTH",
-          "subtitle": "See the results and numbers behind our inequitable health care accessibility.&nbsp;",
+          "subtitle": "Despite the growing number of citizens with health insurance and coverage in California, those of lower class and minority groups are not receiving equitable accessibility to health care; in particular, recipients of our state issued Medi-Cal program are experiencing the most difficulty in accessing necessary health care.&nbsp;<br>",
           "label1": "HOT!",
-          "title1": "STANDARD",
-          "subtitle1": "Description",
-          "currency1": "$",
-          "price1": "0",
-          "period1": "/mo.",
-          "description1": "More details",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "title1": "",
+          "subtitle1": "",
+          "currency1": "",
+          "price1": "20%",
+          "period1": "",
+          "description1": "of Californians with Medi-Cal are having difficulties finding health care providers who will accept their insurance plan.<br>",
+          "list1": "<ul class=\"list-group list-group-flush\"></ul><div><span style=\"line-height: 1.5;\">“Survey Says: Californians’ Perspectives on Health Care,” Perry Undem Research/ Communication, California Health Care Foundation, March 2015, Dec 28, 2016</span><br></div>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label2": "HOT!",
-          "title2": "BUSINESS",
-          "subtitle2": "Description",
-          "currency2": "$",
-          "price2": "0",
-          "period2": "/mo.",
-          "description2": "More details",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "title2": "",
+          "subtitle2": "",
+          "currency2": "",
+          "price2": "43%",
+          "period2": "",
+          "description2": "of adults in fair/poor health reported to have more difficulty receiving neccessary health care from specialists due to high costs.",
+          "list2": "“Survey Says: Californians’ Perspectives on Health Care,” Perry Undem Research/ Communication, California Health Care Foundation, March 2015, Dec 28, 2016",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label3": "HOT!",
-          "title3": "PREMIUM",
-          "subtitle3": "Description",
-          "currency3": "$",
-          "price3": "0",
-          "period3": "/mo.",
-          "description3": "More details",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
+          "title3": "",
+          "subtitle3": "",
+          "currency3": "",
+          "price3": "77%",
+          "period3": "",
+          "description3": "of Medi-Cal recipients reported to want more time to talk with doctors concerning questions and receiving help.",
+          "list3": "“Survey Says: Californians’ Perspectives on Health Care,” Perry Undem Research/ Communication, California Health Care Foundation, March 2015, Dec 28, 2016<ul class=\"list-group list-group-flush\"></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label4": "HOT!",
-          "title4": "ULTIMATE",
-          "subtitle4": "Description",
-          "currency4": "$",
-          "price4": "0",
-          "period4": "/mo.",
-          "description4": "More details",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>"
+          "title4": "",
+          "subtitle4": "",
+          "currency4": "",
+          "price4": "44%",
+          "period4": "",
+          "description4": "of Latinos are more likely to rely on community clinics, making them the least likely ethnicity to find health care at a doctor's office.&nbsp;",
+          "list4": "“Survey Says: Californians’ Perspectives on Health Care,” Perry Undem Research/ Communication, California Health Care Foundation, March 2015, Dec 28, 2016<ul class=\"list-group list-group-flush\"></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
         },
         {
           "_styles": {
@@ -1242,7 +1410,20 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>"
+          "text": "<blockquote><p>Health is everything. And if everyone can't have it, well, then what's the point? Everyone needs health care, and the meeting of that need should not be dependent on whether or not you can afford it.&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; -Nora Evison (2017)<br></p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-29",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>We will work closely with our very own Covered California to enact substantial health care policy changes that will require that all health care plan providers to aid recipients in the process of receiving health care. &nbsp;One such plan includes direcly plugging recipients to a primary care physician within a certain period of time (e.g. 60 days).&nbsp;</p><p><br></p><p>This new policy/rule would include all recipients of Medi-Cal receiving mandatory aid in being directed to consistent health care providers best suited for their needs and budgets and eliminate the challenges Medi-Cal recipients have had to face in finding a healthcare provider who accepts Medi-Cal by themselves. It would directly introduce people to someone familiar with the domain of healthcare who can guide them in finding the right medical assistance and satisfy many (esp. Medi-Cal) patients’ desire to have more time and ability to discuss their healthcare situations with a physician.</p>"
         },
         {
           "_tags": [
@@ -1252,16 +1433,16 @@
           "_anchor": "buttons1-19",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">CLICK HERE TO SHOW YOUR<br>SUPPORT NOW!<br></a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://cpehn.org/sites/default/files/advancing_equitable_healthcare_quality_improvement_-_lance_lang.pdf\" data-toolbar=\"-mbrBtnMove\">LEARN MORE ABOUT<br>COVERED CALIFORNIA NOW!<br></a> "
         }
       ]
     },
     "lgbtqacceptance.html": {
       "settings": {
-        "title": "LGBTQ ACCEPTANCE",
+        "title": "Evison for Governor- LGBTQ Acceptance ",
         "order": 7
       },
       "components": [
@@ -1554,7 +1735,7 @@
     "environmentalchange.html": {
       "settings": {
         "order": 5,
-        "title": "ENVIRONMENTAL CHANGE"
+        "title": "Evison for Governor- Environmental Change"
       },
       "components": [
         {
@@ -1712,7 +1893,7 @@
           "_anchor": "msg-box5-1u",
           "_params": {
             "imageSize": "54",
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
@@ -1878,7 +2059,7 @@
           "_anchor": "buttons1-1y",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "bgColor": "#efefef"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.biologicaldiversity.org/campaigns/california_fracking/faq.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE<br></a> "
@@ -1955,7 +2136,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "HOME",
+        "title": "Evison for Governor",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -2022,7 +2203,7 @@
     },
     "home.html": {
       "settings": {
-        "title": "HOME",
+        "title": "Evison for Governor- Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -2067,7 +2248,7 @@
             "imageSize": "57",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467912407355-245f30185020-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/californiacapitolistock-000056925982-large-2000x1691-1.jpg",
             "bgColor": "#2969b0",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2082,7 +2263,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true
           },
           "media": {
@@ -2108,8 +2289,63 @@
             }
           },
           "title": "Nora Evison for CA Governor 2017!",
-          "text": "We need a new governor that can bring the change<br> of tomorrow to life today! Nora Evison for&nbsp;<br>your 2017 Governor of California!",
+          "text": "We need a new governor that can bring the change<br> of tomorrow to life today! Nora Evison for&nbsp;<br>your 2017 Governor of California!<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2a",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/3Bh67EHsAuI",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "HELP THE PLANET. HELP THE PEOPLE.&nbsp;<br>HELP OURSELVES.",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://youtu.be/3Bh67EHsAuI\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PLAY IN NEW TAB</a>",
+          "_styles": {
+            "H3": {
+              "color": "#2969b0"
+            }
+          }
         },
         {
           "_tags": [
@@ -2159,7 +2395,7 @@
           "title1": "WHO",
           "subtitle1": "",
           "caption1": "Before you go out and vote, be sure to take the chance to&nbsp;get to know your future&nbsp;Governor o California 2017:&nbsp;Nora Evison! Guarantee if you<br>click&nbsp;to find&nbsp;out more, you'll see something<br>very&nbsp;interesting.&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"who.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"who.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">GO</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-12-at-5-600x360-1.jpg",
@@ -2175,7 +2411,7 @@
           "title2": "WHAT",
           "subtitle2": "",
           "caption2": "Find out exactly what your candidate's<br>goals and plans are for when she is&nbsp;<br>elected as your Governor. You'll find not only the issues she's battling, but also her solutions for a better and brighter California!&nbsp;",
-          "button2": "<a data-app-btn=\"true\" href=\"what.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"what.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">GO</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-12-at-9-600x373-2.jpg",
@@ -2190,8 +2426,8 @@
           },
           "title3": "GALLERY",
           "subtitle3": "",
-          "caption3": "Click here to see and learn more about what<br>your candidate has been up to! With the help<br>some funny, informative, and interesting<br>visuals, you are sure to see why you should<br>vote Evison for Gov. of CA 2017!",
-          "button3": "<a data-app-btn=\"true\" href=\"gallery.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption3": "Click here to see our campaign poster and more! With the help&nbsp;some funny, informative, and interesting&nbsp;visuals, you are sure to see why<br>you should&nbsp;vote Evison for <br>Gov. of CA 2017!",
+          "button3": "<a data-app-btn=\"true\" href=\"gallery.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">GO</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",

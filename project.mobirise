@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "what.html",
+    "currentPage": "who.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -196,7 +196,7 @@
           },
           "title": "Intro to your candidate: Who is Nora Evison?",
           "text": "You may be wondering who Nora Evison is? Is she the type of person you want to see in office for the great state of California? Find out here with this quick video and get to know your future state governor.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PLAY IN NEW TAB</a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://youtu.be/DJrmGDp7XJ0\" data-toolbar=\"-mbrBtnMove\">PLAY IN NEW TAB</a>  "
         },
         {
           "_inherit": "social-buttons1",
